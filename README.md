@@ -268,3 +268,7 @@ Las consultas críticas son derivadas al odontólogo para revisión humana.
 El proyecto integra automatización, Inteligencia Artificial, RAG, memoria operativa, Human-in-the-Loop, manejo de errores y monitoreo mediante KPIs.
 
 La arquitectura permite automatizar consultas administrativas simples y mantener intervención humana en situaciones sensibles, priorizando trazabilidad, seguridad y control.
+
+## Demo del proyecto final
+
+[Ver video demo en Google Drive] https://drive.google.com/file/d/1OXwtsVtOcsqJxuAY1ucko6_c20mnF3jm/view?usp=drive_link
